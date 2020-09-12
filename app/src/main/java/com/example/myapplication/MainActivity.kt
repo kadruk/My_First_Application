@@ -10,6 +10,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
 
-        Toast.makeText( this, "Wiadomość z Androida, tutaj jestem hej hej", Toast.LENGTH_LONG).show()
+        Toast.makeText( this, "To jest branch drugi", Toast.LENGTH_LONG).show()
     }
 }
